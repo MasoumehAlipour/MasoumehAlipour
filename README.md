@@ -1,5 +1,5 @@
 # Masoumeh Alipour 
-I'am a Senior Data Analyst, I started my job journey from 2015 as a Business Intelligence Specialist and change my position to Data Analyst with learning R and Python. I have worked with Financial, Accounting data, Marketing and Growth data.
+I'am a Senior Data Analyst, I started my job journey from 2015 as a Business Intelligence Specialist and change my position to Data Analyst with learning R and Python. I have worked with Marketing, Growth, Financial, Operation, Commertial and Accounting data.
 
 
 <br/>
