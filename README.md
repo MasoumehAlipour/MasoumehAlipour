@@ -21,7 +21,6 @@ I'am a Senior Data Analyst, I started my job journey from 2015 as a Business Int
 
 
 #  
-<br/>
 [My Website](https://www.masytheanalyst.com/)
 <br/>
 <br/>
